@@ -1,11 +1,7 @@
 Link : https://infytq.onwingspan.com/en/viewer/hands-on/lex_auth_012693780491968512136_shared?collectionId=lex_auth_0125409616243425281061_shared&collectionType=Course
 
-Problem Statement : You have x no. of 5 rupee coins and y no. of 1 rupee coins. 
-You want to purchase an item for amount z.
-The shopkeeper wants you to provide exact change. 
-You want to pay using minimum number of coins.
-How many 5 rupee coins and 1 rupee coins will you use? 
-If exact change is not possible then display -1.
+Problem Statement : You have x no. of 5 rupee coins and y no. of 1 rupee coins. You want to purchase an item for amount z. The shopkeeper wants you to provide exact change. 
+You want to pay using minimum number of coins. How many 5 rupee coins and 1 rupee coins will you use? If exact change is not possible then display -1.
 
 Solution : 
   
